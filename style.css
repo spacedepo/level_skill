@@ -1,0 +1,86 @@
+p {
+    color: rgb(20, 235, 31);
+}
+h1 {
+    background-color: rgb(243, 18, 205);
+}
+.pussy {
+    color: rgb(104, 4, 104);
+}
+.z {
+    color: mediumturquoise;
+}
+input[type="email"] {
+    color: olive;
+}
+button[type="reset"] {
+    color: red;
+}
+.block {
+    width: 90x;
+    height: 300px;
+    border: 1px solid #000;
+    background-image: url(https://99px.ru/sstorage/56/2018/02/11702180000235303.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.text{
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading{
+    text-align: center;
+}
+.z{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.header2{
+    background-color: darkblue;
+}
+.prava{
+    background-color: darkred;
+}
+.vid{
+    color: darkslateblue;
+}
+.text1{
+    color: deeppink;
+}
+.block:first-child {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.text110::first-letter{
+    color: red;
+    font-size: 36px;
+}
+.menu_sp:hover::after {
+    content: ' <<<<';
+}
+.menu_header{
+    text-align: center;
+}
+.header[type="header_menu"] {
+    color: red;
+}
+.header:hover::after {
+    content: ' !!!!!';
+}
+.content_40 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #ccc;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.block-block_40 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #007;
+    flex-grow: 1;
+}
+.container {
+    max-width: 750px;
+    margin: 0 auto;
+}
