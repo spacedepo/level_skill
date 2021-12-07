@@ -52,7 +52,7 @@ button[type="reset"] {
 }
 
 .text110::first-letter{
-    color: red;
+    color: purple;
     font-size: 36px;
 }
 .menu_sp:hover::after {
